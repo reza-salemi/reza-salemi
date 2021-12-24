@@ -12,10 +12,8 @@
 
 
 <p>
-  <a href="">
     <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg" alt="CSS" style="vertical-align:top; margin:4px;">
-  </a>
-  
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
 </p
  
 
