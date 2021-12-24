@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning javascript
 - 👯 I’m looking to collaborate on javascript projects
-- 🥅 2022 Goals: start Contribute to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - 📫 How to reach me: 
 <a title="connect on LinkedIn" href="https://www.linkedin.com/in/msalemi/">
   <img src="https://img.shields.io/badge/Connect-LinkedIn-3178C6.svg?logo=linkedin"/>
