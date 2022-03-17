@@ -1,7 +1,7 @@
 ### Hi there, I'm Mohammad Reza Salemi. 👋
 
 
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on javascript projects
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - 📫 How to reach me: 
@@ -24,7 +24,7 @@ Here are some **technologies** I've built projects with:
     <img src ="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg" alt "HTML5" width="40" height="40" />
     <img src ="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg" alt="CSS3" width="40" height="40" />
     <img src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sass.svg' alt="SASS" width="40" height="40" />
-  <img src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/vuejs.svg' alt="SASS" width="40" height="40" />
+    <img src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg' alt="SASS" width="40" height="40" />
 </p
 
 
