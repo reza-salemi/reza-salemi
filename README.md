@@ -2,7 +2,7 @@
 
 
 - 🌱 I’m currently learning React
-- 👯 I’m looking to collaborate on javascript projects
+- 👯 I’m looking to collaborate on React projects
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - 📫 How to reach me: 
 <a title="connect on LinkedIn" href="https://www.linkedin.com/in/msalemi/">
