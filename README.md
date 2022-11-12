@@ -1,30 +1,53 @@
-### Hi there, I'm Mohammad Reza Salemi. 👋
+![](assets/header.png)
 
+<h1 align="center">Hi there, I'm Mehdi Hadeli 👋</h1>
 
-- 🌱 I’m currently learning React
-- 👯 I’m looking to collaborate on React projects
-- 🥅 2022 Goals: Contribute more to Open Source projects
-- 📫 How to reach me: 
-<a title="connect on LinkedIn" href="https://www.linkedin.com/in/msalemi/">
-  <img src="https://img.shields.io/badge/Connect-LinkedIn-3178C6.svg?logo=linkedin"/>
-</a>
+<p align="center"> 
+ <a href="https://twitter.com/mh_salemi" alt="Mohammad Reza Salemi's Twitter">
+   <img src="https://img.shields.io/badge/%20-Twitter-%231DA1F2?logo=twitter&logoColor=white&style=for-the-badge" />
+ </a>
+ 
+ <a href="https://stackoverflow.com/users/15299417" alt="Mohammad Reza Salemi's stackoverflow">
+   <img src="https://img.shields.io/badge/%20-Stack%20Overflow-%23F58025?logo=stack%20overflow&logoColor=white&style=for-the-badge" />
+ </a>
 
-<a title="send me an email" href="mailto:en.salemi75@gmail.com">
-  <img src="https://img.shields.io/badge/Send-Email-EA4335.svg?logo=gmail"/>
-</a>
+ <a href="https://www.linkedin.com/in/msalemi" alt="Mohammad Reza Salemi's linkedin">
+   <img src="https://img.shields.io/badge/%20-LinkedIn-%230A66C2?logo=linkedin&logoColor=white&style=for-the-badge&link=https://www.linkedin.com/in/mehdihadeli" />
+ </a>
+</p>
 
 ---
 
-## My Toolbox 🧰
+<p align="center"> 
+ <strong>
+  Professional skills
+  </strong>
+</p>
 
-Here are some **technologies** I've built projects with:
+<p align="center">
+  <a href="">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="54" height="54" style="vertical-align:top; margin:4px;" />
+  </a>
+  <a href="https://reactjs.org/">
+    <img src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg' alt="reactjs" width="54" height="54" style="vertical-align:top; margin:4px;">
+  </a>
+  <a href="https://www.typescriptlang.org/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="54" height="54" style="vertical-align:top; margin:4px;">
+  </a>
+  <a href="https://sass-lang.com/">
+    <img src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sass.svg' alt="SASS" width="54" height="54" style="vertical-align:top; margin:4px;">
+  </a>
+  
+  <a href="https://tailwindcss.com/">
+    <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/tailwind.svg" width="54" height="54" alt="Tailwind" style="vertical-align:top; margin:4px;">
+  </a>
+</p>
+<br/>
 
-<p>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
-    <img src ="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg" alt "HTML5" width="40" height="40" />
-    <img src ="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg" alt="CSS3" width="40" height="40" />
-    <img src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sass.svg' alt="SASS" width="40" height="40" />
-    <img src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg' alt="SASS" width="40" height="40" />
-</p
+<p align="center">
+  <a href="#" alt="Mohammad Reza Salemi's github stats"><img src="https://github-readme-stats.vercel.app/api?username=reza-salemi" /></a>
+</p>
+
+
 
 
