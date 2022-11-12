@@ -1,6 +1,6 @@
 ![](assets/header.png)
 
-<h1 align="center">Hi there, I'm Mehdi Hadeli 👋</h1>
+<h1 align="center">Hi there, I'm Mohammad Reza Salemi 👋</h1>
 
 <p align="center"> 
  <a href="https://twitter.com/mh_salemi" alt="Mohammad Reza Salemi's Twitter">
