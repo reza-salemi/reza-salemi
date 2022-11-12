@@ -25,20 +25,20 @@
 </p>
 
 <p align="center">
-  <a href="">
+  <a href="#">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="54" height="54" style="vertical-align:top; margin:4px;" />
   </a>
-  <a href="https://reactjs.org/">
+  <a href="https://reactjs.org/" target="_blank">
     <img src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg' alt="reactjs" width="54" height="54" style="vertical-align:top; margin:4px;">
   </a>
-  <a href="https://www.typescriptlang.org/">
+  <a href="https://www.typescriptlang.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="54" height="54" style="vertical-align:top; margin:4px;">
   </a>
-  <a href="https://sass-lang.com/">
+  <a href="https://sass-lang.com/" target="_blank">
     <img src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sass.svg' alt="SASS" width="54" height="54" style="vertical-align:top; margin:4px;">
   </a>
   
-  <a href="https://tailwindcss.com/">
+  <a href="https://tailwindcss.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/tailwind.svg" width="54" height="54" alt="Tailwind" style="vertical-align:top; margin:4px;">
   </a>
 </p>
