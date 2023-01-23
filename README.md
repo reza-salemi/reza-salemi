@@ -42,8 +42,8 @@
     <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/tailwind.svg" width="54" height="54" alt="Tailwind" style="vertical-align:top; margin:4px;">
   </a>
  
- <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nextjs.svg" width="54" height="54" alt="Tailwind" style="vertical-align:top; margin:4px;">
+ <a href="https://nextjs.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nextjs.svg" width="54" height="54" alt="Next Js" style="vertical-align:top; margin:4px; backgroundColor:white; ">
   </a>
 </p>
 <br/>
